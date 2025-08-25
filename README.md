@@ -14,5 +14,5 @@ others can enjoy its composition and beauty." -- McCue, Colleen. Data Mining and
 
 #### To-Do
 1. Lab 1 (**August 29th, 2025**)
-2. Lab 2 (**To be annoucned, 2025**)
+2. Lab 2 (**To be announced, 2025**)
 3. Lab 3 (**To be announced, 2025**)

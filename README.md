@@ -1,5 +1,5 @@
 # IA 340 Lab 1
-This is my Python [project code]([https://github.com/ivannaren/IA-340-Folder/edit/main/README.md](https://github.com/ivannaren/IA-340-Folder/blob/main/lab1.ipynb)) for my *Data Mining* course.
+This is my Python [project]([https://github.com/ivannaren/IA-340-Folder/edit/main/README.md](https://github.com/ivannaren/IA-340-Folder/blob/main/lab1.ipynb)) for my *Data Mining* course.
 
 ## Data Mining and Predicitve Analysis
 "Good analysts are like sculptors. They can look at a data set and see the underlying
